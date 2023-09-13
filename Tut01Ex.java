@@ -27,16 +27,18 @@ public class Tut01Ex {
 		
 		if (db_userid.equals(id) && db_passwd.equals(passwd)) {
 			System.out.println
-			(db_userid+"회원님 안녕하세요. 마이페이지로 이동합니다.\n로그인 포인트 적립 "+plusPnt+"점!\n현재 보유한 포인트 "+point+"점.");
+			(db_userid+"회원님 안녕하세요. 마이페이지로 이동합니다.");
+			System.out.println("로그인 포인트 적립 "+plusPnt+"점!");
+			System.out.println("현재 보유한 포인트 "+point+"점.");
 		}
 		else {
-			System.out.println("로그인 정보를 확인하세요.\n회원가입 페이지로 이동합니다.\n현재 보유한 포인트 "+point+"점");
+			System.out.println("로그인 정보를 확인하세요.");
+			System.out.println("회원가입 페이지로 이동합니다.");
+			System.out.println("현재 보유한 포인트 "+point+"점");
 		}
 		
 		
-				
-	
-	
-	}			
+
+	}
 
 }
