@@ -10,7 +10,7 @@ public class LogicEx {
 		System.out.print("주민번호를 입력하시오: ");
 		String jumin = sc.next();
 		
-		int gender = Integer.parseInt(jumin.substring(7, 8));
+		int gender = Integer.parseInt(jumin.substring(7, 8)); //parseInt (정수로 변환)
 		if (gender % 2 == 0) {
 			System.out.println("여자입니다.");
 		}
