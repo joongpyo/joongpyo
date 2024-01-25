@@ -60,6 +60,8 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
  </a>
  <br/>
+ <br/>
+
  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tlswndvy&theme=default)](https://tlswndvy.tistory.com/)
 
  <br/>
