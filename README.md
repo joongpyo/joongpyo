@@ -1,7 +1,10 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=A8B3BC&height=150&section=header&text=안녕하세요!초보개발자신중표입니다!&fontColor=000000&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
+
+<br/>
+<br/>
+
 ####  :wave: 제 깃허브에 방문해주셔서 감사합니다.
 
   
@@ -10,7 +13,6 @@
   
 ####  :clipboard: 기술 스택
   
- <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -30,8 +32,10 @@
 [![Tistory](https://tlswndvy.tistory.com/)
  
   <br/>
+  <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 
 </div>
+
