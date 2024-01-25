@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=A8B3BC&height=150&section=header&text=안녕하세요!&nbsp;신입&nbsp;개발자&nbsp;신중표입니다.&fontColor=838BC0&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=A8B3BC&height=150&section=header&text=안녕하세요!&nbsp;신입&nbsp;개발자&nbsp;신중표입니다.&fontColor=838BC0&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 <br/>
 <br/>
