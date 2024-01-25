@@ -13,7 +13,7 @@
  <br/>
  <br/>
   
-##  📚 기술 스택
+### 📚 기술 스택
 <br/>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -52,7 +52,7 @@
    <br/>
    <br/>
  
-## :pencil2: 티스토리 블로그
+### :pencil2: 티스토리 블로그
 <br/>
 <div style="display:flex; flex-direction:row;">
 <a href="https://tlswndvy.tistory.com">
@@ -64,7 +64,7 @@
   <br/>
 
  
-## 📞 Contact
+### 📞 Contact
 <br/>
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:tlswndvy@gmail.com">
