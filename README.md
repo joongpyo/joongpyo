@@ -57,7 +57,7 @@
 <br/>
 <div style="display:flex; flex-direction:row;">
 <a href="https://tlswndvy.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Tistory-DC4B4B?style=for-the-badge&logo=Tistory&logoColor=white"> 
  </a>
  <br/>
 
