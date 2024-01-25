@@ -8,6 +8,7 @@
 ### :wave: 제 깃허브에 방문해주셔서 감사합니다. :wave: 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoongpyo&count_bg=%2332CCE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
  <br/>
@@ -52,13 +53,17 @@
    <br/>
    <br/>
  
-### :pencil2: 티스토리 블로그
+### :pencil2: 공부 기록
 <br/>
 <div style="display:flex; flex-direction:row;">
 <a href="https://tlswndvy.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
  </a>
+ <br/>
+ [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tlswndvy&theme=default)](https://tlswndvy.tistory.com/)
+
 </div>
+
 
 
 </div>
