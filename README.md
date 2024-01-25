@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=A8B3BC&height=150&section=header&text=안녕하세요!초보개발자신중표입니다!&fontColor=000000&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=A8B3BC&height=150&section=header&text=안녕하세요.&nbsp;초보&nbsp;개발자&nbsp;신중표입니다.&fontColor=000000&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 <br/>
 <br/>
@@ -23,6 +23,9 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
 
  
    <br/>
