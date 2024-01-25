@@ -5,13 +5,13 @@
 <br/>
 <br/>
 
-####  :wave: 제 깃허브에 방문해주셔서 감사합니다.
+##  :wave: 제 깃허브에 방문해주셔서 감사합니다. :wave: 
 
   
  <br/>
  <br/>
   
-####  :clipboard: 기술 스택
+###  📚: 기술 스택
   
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -31,13 +31,14 @@
    <br/>
    <br/>
  
-#### :pencil2: Tistory Blog
-[![Tistory](https://tlswndvy.tistory.com/)
- 
+### :pencil2: 티스토리 블로그
+
+
   <br/>
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Joongpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joongpyo&show_icons=true&theme=radical)
   
 
 </div>
