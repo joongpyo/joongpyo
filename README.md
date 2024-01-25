@@ -6,8 +6,10 @@
 <br/>
 
 ### :wave: 제 깃허브에 방문해주셔서 감사합니다. :wave: 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoongpyo&count_bg=%2332CCE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  <br/>
  <br/>
+</div>
   
 ##  📚 기술 스택
 
@@ -52,7 +54,13 @@
    <br/>
  
 ## :pencil2: 티스토리 블로그
-
+<a href="https://li-yo.tistory.com">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+ </a>
+ [![Tistory's Card](https://github-readme-tistory-card.vercel.app/
+api?name=joongpyo&theme=default)](https://tlswndvy.tistory.com/)
+</div><br>
 
   <br/>
   <br/>
