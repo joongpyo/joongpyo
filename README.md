@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">         
     </div>
     <!-- IDE -->
-    <p><strong>IDEA</strong></p>
+    <p><strong>IDE</strong></p>
     <div>
         <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
