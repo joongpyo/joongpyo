@@ -5,7 +5,11 @@
 <br/>
 <br/>
 
-### :wave: 제 깃허브에 방문해주셔서 감사합니다. :wave: 
+### ☑️ 배우는 것에 큰 설렘을 가지고 있는 신입 개발자 신중표입니다! ☑️ 
+
+<br/>
+<br/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoongpyo&count_bg=%2332CCE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 <br/>
