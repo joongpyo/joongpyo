@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### ☑️ 배우는 것에 큰 설렘을 가지고 있는 신입 개발자 신중표입니다! ☑️ 
+## ☑️ 배우는 것에 큰 설렘을 가지고 있는 신입 개발자 신중표입니다! ☑️ 
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@
  <br/>
  <br/>
   
-### 📚 기술 스택
+## 📚 기술 스택
 <br/>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -57,7 +57,7 @@
    <br/>
    <br/>
  
-### :pencil2: 공부 기록
+## :pencil2: 공부 기록
 <br/>
 <div style="display:flex; flex-direction:row;">
 <a href="https://tlswndvy.tistory.com">
@@ -70,9 +70,6 @@
  <br/>
  <br/>
 
-</div>
-
-
-
-</div>
+## 💾 참여 프로젝트
+[약 데이터 정보 검색 사이트 - Medicine Search Project(M.S.P)](https://github.com/joongpyo/M.S.P)
 
