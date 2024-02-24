@@ -62,6 +62,16 @@
 
    <br/>
    <br/>
+
+## 📋 포트폴리오
+<br/>
+
+  [신입 개발자 신중표입니다. 🐸](https://www.notion.so/a1c6e464db1d4960a1beba1ccccb4654?pvs=4)
+   
+   <br/>
+   <br/>
+
+
  
 ## :pencil2: 공부 기록
 <br/>
@@ -77,6 +87,8 @@
  <br/>
 
 ## 💾 참여 프로젝트
+<br/>
+
 [💊 약 데이터 정보 검색 사이트 - Medicine Search Project(M.S.P)](https://github.com/joongpyo/M.S.P)
 
 <br/>
