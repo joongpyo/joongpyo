@@ -8,7 +8,7 @@
 
 
 
-## ✔️ 배우는 것에 큰 설렘을 가지고 있는 신입 개발자 신중표입니다! ✔️
+## ✔️ 신입 개발자 신중표입니다! ✔️
 
 
 <br/>
@@ -36,7 +36,6 @@
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">         
     </div>   
     <!-- Frontend -->
