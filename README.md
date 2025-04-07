@@ -58,7 +58,7 @@
 
    <br/>
    <br/>
-
+ <!--
 ## 📋 포트폴리오
 <br/>
 
@@ -66,8 +66,8 @@
    
    <br/>
    <br/>
-
-
+ -->
+ <!--
  
 ## :pencil2: 공부 기록
 <br/>
@@ -80,6 +80,7 @@
  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tlswndvy&theme=default)](https://tlswndvy.tistory.com/)
 
  <br/>
+ -->
  <br/>
 
 ## 💾 참여 프로젝트
