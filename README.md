@@ -11,10 +11,11 @@
 <br/>
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoongpyo&count_bg=%2332CCE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  <br/>
  <br/>
  <br/>
@@ -62,15 +63,15 @@
 
    <br/>
    <br/>
- <!--
+
 ## 📋 포트폴리오
 <br/>
 
-  [신입 개발자 신중표입니다. 🐸](https://www.notion.so/a1c6e464db1d4960a1beba1ccccb4654?pvs=4)
+  [주니어 개발자 신중표입니다. 🐸](https://www.notion.so/a1c6e464db1d4960a1beba1ccccb4654?pvs=4)
    
    <br/>
    <br/>
- -->
+
  <!--
  
 ## :pencil2: 공부 기록
